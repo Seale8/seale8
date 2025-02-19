@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 Feel free to reach out if you want to discuss technology, collaborate on projects, or just say hi!
 
-- [LinkedIn](https://www.linkedin.com/in/seale8)
+
 - [Email](mailto:joshbseale@gmail.com)
 
 Thanks for visiting my profile! Have a great day! 😊
