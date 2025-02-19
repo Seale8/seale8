@@ -1,4 +1,4 @@
-# Hi there, I'm Josh 👋
+# Hi , I'm Josh 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in open source projects and a love for learning new technologies.
 
